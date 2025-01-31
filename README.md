@@ -1,4 +1,4 @@
-## Fleek + Jstack & OnchainKit with Base
+## Fleek + OnchainKit with Base & Jstack
 
 ## Overview
 This project integrates **OnchainKit** and the **Base Pixel** font on Fleek, leveraging the **Base Pixel** typeface for an expressive and digital-native experience. Additionally, the project is deployed using Fleek’s Next.js adapter, ensuring edge-optimized performance and decentralized hosting.
