@@ -5,8 +5,8 @@ import "./globals.css";
 import "@coinbase/onchainkit/styles.css";
 
 export const metadata: Metadata = {
-  title: "JStack App",
-  description: "Created using JStack",
+  title: "Fleek-Base template",
+  description: "A simple Next.js template with Fleek and OnchainKit using the Base Pixel template",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
