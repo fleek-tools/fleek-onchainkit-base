@@ -120,6 +120,4 @@ Upon successful deployment, you will receive a Fleek Function URL:
 ```
 
 ## Notes
-
-- **Fleek Functions do not support runtime environment variables**. Use build-time variables instead.
-- For more information on Next.js support in Fleek, refer to the official documentation.
+- For more information on Next.js support in Fleek, refer to the [official documentation](https://fleek.xyz/docs).
