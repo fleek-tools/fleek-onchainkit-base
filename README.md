@@ -94,9 +94,5 @@ Upon successful deployment, you will receive a Fleek Function URL:
 - **Fleek Functions do not support runtime environment variables**. Use build-time variables instead.
 - For more information on Next.js support in Fleek, refer to the official documentation.
 
-## License
-This project follows the licensing model provided by **Base Pixel** for typography usage.
 
-## Contact
-For issues or support, reach out via (Add relevant support or contact details).
 
