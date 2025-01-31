@@ -4,9 +4,6 @@ import { Providers } from "./components/providers";
 import "./globals.css";
 import "@coinbase/onchainkit/styles.css";
 
-
-
-
 export const metadata: Metadata = {
   title: "JStack App",
   description: "Created using JStack",
