@@ -120,4 +120,4 @@ Upon successful deployment, you will receive a Fleek Function URL:
 ```
 
 ## Notes
-- For more information on Next.js support in Fleek, refer to the [official documentation](https://fleek.xyz/docs).
+- For more information on Next.js support in Fleek, refer to the [official documentation](https://fleek.xyz/docs/).
